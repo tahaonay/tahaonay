@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taha ONAY</h1>
 <h3 align="center">A beginner developer from TURKEY</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahaonay&label=Profile%20views&color=0e75b6&style=flat" alt="tahaonay" /> </p>
 
 - 🌱 I’m currently learning **OpenCV and Deep learning**
 
